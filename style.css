@@ -4,5 +4,5 @@ h1{
     color: rgb(181, 51, 22);
 }
 body{
-    background: linear-gradient(red blue green) ;
+    background: linear-gradient(to right, #8e20a9, #ff6600, #0000ff);
 }
